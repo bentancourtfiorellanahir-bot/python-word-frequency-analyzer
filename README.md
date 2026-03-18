@@ -1,4 +1,4 @@
-# python-word-frequency-analyzer
+# Word Frequency Analyzer (Python)
 # Python Word Frequency Analyzer
 
 This project analyzes a text file and calculates the frequency of each word using Python and regular expressions.
