@@ -23,6 +23,13 @@ The program reads a text file line by line, extracts words using a regular expre
 
 Top words:
 
-the : 56  
-python : 34  
-data : 22  
+python : 4
+is : 4
+data : 1
+learning : 1
+powerful : 1
+programming : 1
+language : 1
+easy : 1
+learn : 1
+widely : 1
