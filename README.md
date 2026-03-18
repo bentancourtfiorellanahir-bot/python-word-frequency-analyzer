@@ -26,5 +26,3 @@ Top words:
 the : 56  
 python : 34  
 data : 22  
-
-## File Structure
